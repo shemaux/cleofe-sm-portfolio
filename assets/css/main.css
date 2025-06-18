@@ -884,9 +884,15 @@ section,
   }
 
   .hero-hello {
-    font-size: 1.5rem; /* Adjust as needed for smaller mobile size */
+    font-size: 1.5rem;
+  }
+
+  .hero-image img {
+    width: 80% !important;
+    margin-top: -40px; /* optional: adjust spacing */
   }
 }
+
 
 
 
