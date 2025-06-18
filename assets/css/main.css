@@ -855,7 +855,7 @@ section,
 }
 
 .hero .content .lead {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   margin-bottom: 2rem;
   color: color-mix(in srgb, var(--default-color), transparent 20%);
 }
@@ -871,6 +871,24 @@ section,
     flex-direction: column;
   }
 }
+
+
+.hero-hello {
+  opacity: 0.5;
+  font-size: 1.875rem; /* ~30px for desktop */
+}
+
+@media (max-width: 576px) {
+  .hero-name {
+    font-size: 1.8rem;
+  }
+
+  .hero-hello {
+    font-size: 1.5rem; /* Adjust as needed for smaller mobile size */
+  }
+}
+
+
 
 .hero .cta-buttons .btn {
   padding: 0.8rem 2rem;
