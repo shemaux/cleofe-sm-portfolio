@@ -830,6 +830,21 @@ section,
   }
 }
 
+.hero .container,
+.about .container,
+.skills .container,
+.tools .container,
+.resume .container,
+.portfolio .container,
+.footer .container,
+.services .container {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+
+
+
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
