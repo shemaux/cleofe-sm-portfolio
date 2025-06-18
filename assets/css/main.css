@@ -1098,6 +1098,7 @@ section,
 .about .about-content .lead {
   font-size: 15px;
   color: color-mix(in srgb, var(--default-color), transparent 10%);
+  font-weight: 500;
 }
 
 .about .personal-info {
