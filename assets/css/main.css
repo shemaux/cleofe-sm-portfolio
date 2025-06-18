@@ -12,9 +12,9 @@
 --------------------------------------------------------------*/
 /* Fonts */
 :root {
-  --default-font: "Poppins",  system-ui, -apple-system, "Poppins", Roboto, "Poppins", Arial, "Poppins", "Poppins", sans-serif, "Poppins", "Poppins", "Poppins", "Poppins";
-  --heading-font: "Poppins",  sans-serif;
-  --nav-font: "Poppins",  sans-serif;
+  --default-font: "Montserrat",  system-ui, -apple-system, "Montserrat", Roboto, "Montserrat", Arial, "Montserrat", "Montserrat", sans-serif, "Montserrat", "Montserrat", "Montserrat", "Montserrat";
+  --heading-font: "Montserrat",  sans-serif;
+  --nav-font: "Montserrat",  sans-serif;
 }
 
 /* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
