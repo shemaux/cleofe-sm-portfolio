@@ -526,7 +526,7 @@ h6 {
     }
     .site-footer a:hover
     {
-      color:#fa2b33;
+      color:#ffffff;
       text-decoration:none;
     }
     .footer-links
@@ -545,7 +545,7 @@ h6 {
     }
     .footer-links a:active,.footer-links a:focus,.footer-links a:hover
     {
-      color:#fa2b33;
+      color:#ffffff;
       text-decoration:none;
     }
     .footer-links.inline li
