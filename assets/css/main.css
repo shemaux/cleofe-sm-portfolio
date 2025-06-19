@@ -1319,6 +1319,12 @@ section,
 /*--------------------------------------------------------------
 # Resume Section
 --------------------------------------------------------------*/
+
+#resume li {
+  margin-bottom: -0.5rem;
+  
+}
+
 .resume .resume-wrapper .resume-block {
   margin-bottom: 3rem;
 }
