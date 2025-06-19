@@ -891,6 +891,7 @@ section,
 .hero-hello {
   opacity: 0.5;
   font-size: 1.875rem; /* ~30px for desktop */
+  font-weight: 600;
 }
 
 @media (max-width: 576px) {
@@ -1738,19 +1739,19 @@ section,
   padding: 80px 0;
 }
 
-.services .servies-title {
-  font-size: 2.5rem;
+.services .services-title {
+  font-size: 1.8rem;
   margin-bottom: 1.5rem;
 }
 
 @media (max-width: 768px) {
-  .services .servies-title {
+  .services .services-title {
     font-size: 1.8rem;
   }
 }
 
 @media (max-width: 480px) {
-  .services .servies-title {
+  .services .services-title {
     font-size: 1.5rem;
   }
 }
