@@ -850,6 +850,9 @@ section,
 --------------------------------------------------------------*/
 
 
+
+
+
 .hero {
   padding: 80px 0;
   position: relative;
@@ -874,6 +877,7 @@ section,
   margin-bottom: 2rem;
   color: color-mix(in srgb, var(--default-color), transparent 20%);
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+  font-weight: 400;
 }
 
 .hero .cta-buttons {
@@ -1052,6 +1056,9 @@ section,
 /*--------------------------------------------------------------
 # About Section
 --------------------------------------------------------------*/
+
+
+
 .about .about-image {
   text-align: center;
   padding: 1rem 1rem;
