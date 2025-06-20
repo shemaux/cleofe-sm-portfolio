@@ -629,8 +629,9 @@ h6 {
 
 .footer .credits {
   margin-top: 10px;
-  font-size: 13px;
+  font-size: 12px;
   text-align: center;
+  opacity: 0.6;
 }
 
 /*--------------------------------------------------------------
