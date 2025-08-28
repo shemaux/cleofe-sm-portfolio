@@ -634,6 +634,27 @@ h6 {
   opacity: 0.6;
 }
 
+.oval-btn {
+  background-color: transparent;             /* Transparent by default */
+  color: var(--accent-color);                /* Text same as outline */
+  border: 2px solid var(--accent-color);     /* Outline border */
+  padding: 10px 25px;
+  border-radius: 50px;                       /* Oval shape */
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.oval-btn:hover {
+  background-color: var(--accent-color);     /* Fill on hover */
+  color: var(--surface-color);               /* Text becomes light */
+  border: none;                              /* Remove outline on hover */
+}
+
+
+
+
 /*--------------------------------------------------------------
 # Scroll Top Button
 --------------------------------------------------------------*/
